@@ -1,0 +1,8 @@
+Servers - holds resources, always connected to the network
+
+client - laptop, phone , etc..
+
+Domain name determined by ICAAN
+
+DNS converts to IP address
+
